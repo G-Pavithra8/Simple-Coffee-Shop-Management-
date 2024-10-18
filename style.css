@@ -1,0 +1,67 @@
+#header {
+    height:300px;
+    width:1000px;
+    background-color: blueviolet;
+    margin-left:auto;
+    margin-right:auto;
+}
+.head{
+    height:250px;
+    width:1000px;
+}
+.logo{
+    float:left;
+    width:300px;
+    height:250px;
+}
+.name{
+    height:250px;
+    width:700px;
+}
+.n{
+    font-size:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position :relative;
+    top: 110px;
+    left:250px;
+    color: beige;
+    text-transform: uppercase;
+    text-shadow: 0cm;
+
+}
+
+.menu{
+    height: 50px;
+    width: 1000px;;
+    background-color: blanchedalmond;
+
+}
+.menu ul li{
+    display: inline;
+    padding:36px;
+}
+.menu ul li a{
+    font-size: 24px;
+    color: brown;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.menu ul li a:hover{
+    color: rgb(116, 50, 91);
+    text-decoration: underline;
+}
+#Footer{
+    height: 100px;
+    width: 1000px;
+    background-color:blueviolet;
+    border: pink solid;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.copy{
+    font-size:20px;
+    color: black;
+    float: right;
+    position: relative;   
+}

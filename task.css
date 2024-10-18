@@ -1,0 +1,25 @@
+#opps {
+    height: 600px;
+    width: 1000px;
+    background-image: url("img/download (1).jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.name{
+    position: relative;
+    text-transform: uppercase;
+    font-size: 30px;
+    border:beige;
+    color: rgb(225, 0, 255);
+}
+.content{
+    color: blanchedalmond;
+    top: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image{
+    height:1000px;
+    width:1000px;
+    top: 500px;
+}
